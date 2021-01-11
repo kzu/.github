@@ -2,7 +2,7 @@
 	url = https://github.com/devlooped/.github
 [file ".github/FUNDING.yml"]
 	url = https://github.com/devlooped/.github/blob/main/.github/FUNDING.yml
-	etag = 175f855cce8867cc01b44fd7b0d9985f7280d7b545db9ec8e1b07eca8ef85f82
+	etag = a944c728facd033bbdfb4ff8d0ef10d0b3a457c277dc499458df0ffc7e6409da
 	weak
 [file ".github/workflows/pages.yml"]
 	url = https://github.com/devlooped/.github/blob/main/.github/workflows/pages.yml
